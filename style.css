@@ -9,3 +9,15 @@
  License:      GNU General Public License v2 or later License
  URI:  http://www.gnu.org/licenses/gpl-2.0.html
 ------------------------------ ADDITIONAL CSS HERE ------------------------------*/
+/*------------------------------------------------
+ Tickera events
+------------------------------------------------*/
+
+/*---------------------------
+ Tickera event post
+ append .single-tc_events
+---------------------------*/
+.single-tc_events #main-content .container {
+   width: 100% !important;
+   max-width: 100 !important;
+}

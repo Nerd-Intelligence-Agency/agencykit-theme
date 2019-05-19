@@ -24,5 +24,3 @@ An answer to that question.
 * Initial Release
 
 == Resources ==
-* magnify.jpg © 2014 Jane Doe, CC0
-* supermenu.js © 2013-2015 James Today, MIT
