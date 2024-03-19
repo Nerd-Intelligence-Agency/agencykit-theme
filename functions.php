@@ -19,3 +19,9 @@ $myUpdateChecker = Puc_v4_Factory::buildUpdateChecker(
   __FILE__,
   'agencykit-Theme'
 );
+
+//set pwa display
+add_filter( 'web_app_manifest', function( $manifest ) {
+  $manifest['display'] = 'fullscreen';
+  return $manifest;
+} );

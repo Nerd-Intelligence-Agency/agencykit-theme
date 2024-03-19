@@ -19,6 +19,8 @@ The AgencyKit main theme
 An answer to that question.
 
 == Changelog ==
+= 1.1.0 =
+* add pwa support and set pwa view
 
 = 1.0 =
 * Initial Release
